@@ -96,7 +96,7 @@ Boosts allow you to reset fatigue or extend productivity faster:
 ---
 
 <p align="center">
-  <img src="./assets/images/boostpacks.png" width="700"/>
+<img src="./boostpacks.png" width="700"/>
 </p>
 
 ---
