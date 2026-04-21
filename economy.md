@@ -4,80 +4,95 @@
 
 The Energy Wabbits ecosystem runs on a **dual-currency system** designed to create a sustainable and engaging loop.
 
-Players earn, spend, and cycle resources to progress through the system while contributing to the overall economy.
+The economy is built to keep users active by turning staking into progression, and progression into reward opportunities.
 
 ---
 
 ## ⚡ EP (Energy Points)
 
-EP is the **core resource** earned through staking.
+EP is the **core production resource** earned through staking.
+
+### How EP is earned:
+
+- EP is earned by staking Wabbits
+- EP accrues over time through the Work Cycle
+- The amount earned depends on how many Wabbits are staked
 
 ### How EP is used:
 
-- Upgrade your Burrow Shop  
-- Play games  
-- Enter raffles  
-- Activate boosts  
-- Progress through the ecosystem  
+- Build your Burrow Shop
+- Upgrade your Burrow Shop
+- Power store progression
 
-EP is **not meant to be held forever** — it is designed to be spent to drive activity.
+EP is mainly used to help users grow their in-game production system.
 
 ---
 
 ## 🟣 WB (Wabbit Bucks)
 
-WB is the **reward-based currency** of the ecosystem.
+WB is the **main reward currency** inside the ecosystem.
 
 ### How WB is earned:
 
-- Generated from your Burrow Shop  
-- Won through games  
-- Earned from raffles and events  
+- Generated through your Burrow Shop
+- Earned through ecosystem reward systems
+- Earned through future gameplay, competitions, or events
 
 ### How WB is used:
 
-- Buy raffle tickets  
-- Enter competitions  
-- Access rewards  
+- Buy raffle tickets
+- Enter reward-based activities
+- Participate in ecosystem competitions
+- Access future reward opportunities
 
 ---
 
 ## 💸 Claiming WB
 
-WB is claimable through a small fee-based system.
+WB builds up over time and can be claimed through a fee-based system.
 
 ### Key Rules:
 
-- WB accumulates over time  
-- There is a max hold limit before claiming  
-- Claiming requires a small fee  
-- This fee helps support the treasury  
+- WB accumulates until claimed
+- There is a maximum amount users can hold before needing to claim
+- Claiming WB requires a small fee
+- Claim fees help support the treasury
+
+This creates a loop where the system can continue funding rewards and future growth.
 
 ---
 
 ## 🔁 The Core Economy Loop
 
-The entire system is built around this loop:
+The full economy works like this:
 
-1. Stake NFTs → Earn EP  
-2. Spend EP → Upgrade Shop  
-3. Shop Produces → Earn WB  
-4. Use WB → Raffles, Games, Rewards  
-5. Claim WB → Fee goes to treasury  
+1. Stake Wabbits  
+2. Earn EP  
+3. Use EP to build and upgrade your Burrow Shop  
+4. Burrow Shop generates WB  
+5. Use WB for raffles, rewards, and competitions  
+6. Claim WB through the fee-based claim system  
 
 ---
 
 ## 🏪 Burrow Shop System
 
-The Burrow Shop is your **earning engine**.
+The Burrow Shop is the main bridge between EP and WB.
 
-### What you can upgrade:
+### The role of the shop:
 
-- Partner energy drink cans  
-- Store levels (Can → 12-Pack → 24-Pack → Pallet)  
-- Staff (Stocker, Manager, Night Manager)  
+- EP goes into building the shop
+- Shop upgrades improve production
+- Better production leads to more WB generation
 
-Higher upgrades = higher WB production.
+### Example upgrade path:
+
+- Can
+- 12-Pack
+- 24-Pack
+- Pallet
+
+As the shop improves, it becomes a stronger WB-producing system.
 
 ---
 
@@ -85,19 +100,25 @@ Higher upgrades = higher WB production.
 
 The economy is designed to:
 
-- Prevent inflation  
-- Reward active users  
-- Encourage daily participation  
-- Maintain long-term sustainability  
+- Reward participation
+- Prevent unlimited passive extraction
+- Encourage active progression
+- Support long-term sustainability
+
+EP keeps users building.  
+WB gives users something to work toward.
 
 ---
 
 ## 🎯 Why This Works
 
-- EP drives activity  
-- WB drives rewards  
-- Fees support the treasury  
-- Players stay engaged through progression  
+- Staking creates EP
+- EP powers progression
+- Progression creates WB
+- WB powers rewards
+- Claim fees support the treasury
+
+This creates a simple but strong loop that is easy to understand and scalable over time.
 
 ---
 
