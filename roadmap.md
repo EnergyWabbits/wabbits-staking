@@ -2,72 +2,108 @@
 
 ## Overview
 
-The Energy Wabbits roadmap is designed to build the ecosystem in **phases**, allowing each system to support the next.
+Energy Wabbits is built with a **full ecosystem launch approach**, where the core systems go live together to create immediate utility, engagement, and economic flow.
 
-The focus is on **sustainability, usability, and growth** — not rushing features.
-
----
-
-## 🚀 Phase 1 — Foundation
-
-- Launch staking system  
-- Introduce EP earning (Work Cycle system)  
-- Deploy core smart contract infrastructure  
-- Begin early community onboarding  
+The focus is on building a strong **off-chain economy first**, then transitioning into an on-chain system backed by real activity and treasury growth.
 
 ---
 
-## 🏪 Phase 2 — Burrow Shop
+## 🚀 Phase 1 — Full Ecosystem Launch (Off-Chain)
 
-- Launch Burrow Shop system  
-- Introduce upgrade mechanics (Cans, Packs, Pallets)  
-- Implement WB generation through shop  
-- Add progression systems  
+The following systems are launched together:
 
----
+### Core Systems
 
-## 🎮 Phase 3 — Games & Rewards
+- Staking system (Work Cycle model)  
+- EP earning system  
+- WB off-chain currency  
 
-- Launch raffle system  
-- Introduce casino games (Slots, Wheel, etc.)  
-- Add arcade-style mini games  
-- Implement reward distribution system  
+### Production & Progression
 
----
+- Burrow Shop system  
+- Partner collab cans  
+- EP → WB production loop  
 
-## 💰 Phase 4 — Economy Expansion
+### Games & Engagement
 
-- Refine EP → WB loop  
-- Introduce additional sinks for WB  
-- Balance reward systems and progression  
-- Expand competitive features  
+- Raffles (multiple active raffles)  
+- Casino systems (Slots, Wheel, etc.)  
+- Arcade games  
 
----
+### Economy & Fees
 
-## 🏦 Phase 5 — Treasury & Sustainability
-
-- Strengthen treasury mechanics  
-- Optimize fee systems  
-- Expand prize pools  
-- Improve long-term economic balance  
+- WB claim fee ($0.15)  
+- Raffle ticket fee ($0.05 per ticket)  
+- 10% tax on winnings  
+- Boost pack purchases  
 
 ---
 
-## 🌐 Phase 6 — Expansion
+## 💰 Phase 2 — Treasury Growth Phase
 
-- Add new game modes  
-- Expand partner collaborations  
-- Introduce new reward types  
-- Grow community-driven features  
+With the full system live, the focus shifts to:
+
+- Growing the treasury through real user activity  
+- Increasing participation in raffles and games  
+- Expanding boost usage  
+- Strengthening the EP → WB → reward loop  
+
+### Goal:
+
+Build a strong treasury through **engagement, not speculation**
 
 ---
 
-## 🧪 Phase 7 — Optimization
+## 🏦 Phase 3 — Transition Preparation
 
-- Improve UI/UX across all systems  
-- Optimize performance and scalability  
-- Adjust economy based on real usage  
-- Enhance overall user experience  
+Once the treasury reaches a strong level (example: ~$20K+):
+
+- Prepare for on-chain expansion  
+- Structure liquidity strategy  
+- Ensure strong user participation and retention  
+- Align systems for long-term sustainability  
+
+---
+
+## 🔗 Phase 4 — On-Chain Launch
+
+- Introduce WB as an **on-chain asset**  
+- Provide initial liquidity backed by:
+  - Treasury growth  
+  - Ecosystem activity  
+
+- Launch with a **structured and supported market cap**
+
+At this stage:
+
+👉 WB evolves from an in-game currency → **a tradable asset with real value**
+
+---
+
+## 📈 Phase 5 — Post-Launch Growth
+
+- Expand trading activity  
+- Increase demand through utility  
+- Continue ecosystem expansion  
+
+Focus remains on:
+
+- Usage  
+- Engagement  
+- Long-term growth  
+
+---
+
+## 🛡️ Sustainability Measures
+
+To protect the ecosystem:
+
+- Strong utility for WB  
+- Controlled reward flow  
+- Incentives for participation and holding  
+- Systems designed to reduce short-term dumping  
+
+The goal is to maintain a **healthy and active economy over time**.
 
 ---
 
@@ -75,19 +111,19 @@ The focus is on **sustainability, usability, and growth** — not rushing featur
 
 Energy Wabbits is building toward:
 
-- A fully interactive Web3 ecosystem  
-- A strong community-driven economy  
-- Integration with real-world NFT Energy products  
-- Long-term engagement through gameplay and rewards  
+- A full Web3 ecosystem  
+- A strong activity-driven economy  
+- A bridge between off-chain engagement and on-chain value  
+- Integration with NFT Energy real-world products  
 
 ---
 
 ## 🔁 Development Philosophy
 
-- Build → Test → Improve  
-- Community feedback driven  
-- Focus on long-term sustainability  
-- Avoid overpromising  
+- Launch strong, not slow  
+- Activity over speculation  
+- Community-driven growth  
+- Long-term sustainability over hype  
 
 ---
 
