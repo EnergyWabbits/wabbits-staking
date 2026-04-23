@@ -40,6 +40,14 @@ The system uses **diminishing returns** to keep the economy balanced.
 
 ---
 
+<p align="center">
+  <img src="./staking.png" width="600"/>
+</p>
+
+---
+
+---
+
 ## 📊 Formula
 
 - Global Multiplier can increase during events or promotions  
