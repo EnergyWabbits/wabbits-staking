@@ -124,3 +124,9 @@ WB gives users something to work toward.
 <p align="center">
   <img src="./economy.png" width="600"/>
 </p>
+
+---
+
+## 🔗 Navigation
+
+[⬅️ Previous: Staking](./staking.md) | [🏠 Home](./README.md) | [➡️ Next: Games](./games.md)
