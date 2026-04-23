@@ -98,7 +98,7 @@ Skill-based mini-games powered by WB.
 
 ### Features:
 
-- Cost: **1 – 25 WB per game**  
+- Cost: **1 WB per game**  
 - Score determines your payout multiplier  
 
 ### Examples:
