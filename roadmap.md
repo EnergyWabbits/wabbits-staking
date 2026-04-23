@@ -130,3 +130,9 @@ Energy Wabbits is building toward:
 <p align="center">
   <img src="./roadmap.png" width="600"/>
 </p>
+
+---
+
+## 🔗 Navigation
+
+[⬅️ Previous: Treasury](./treasury.md) | [🏠 Home](./README.md)
