@@ -58,13 +58,9 @@ WB builds up over time and can be claimed through a fee-based system.
 - Claiming WB requires a small fee  
 - Claim fees help support the treasury  
 
-This creates a loop where the system can continue funding rewards and future growth.
-
 ---
 
 ## 🔁 The Core Economy Loop
-
-The full economy works like this:
 
 1. Stake Wabbits  
 2. Earn EP  
@@ -79,6 +75,10 @@ The full economy works like this:
 
 The Burrow Shop is the main bridge between EP and WB.
 
+<p align="center">
+  <img src="./store.png" width="600"/>
+</p>
+
 ### The role of the shop:
 
 - EP goes into building the shop  
@@ -89,9 +89,11 @@ The Burrow Shop is the main bridge between EP and WB.
 
 - Can  
 - 12-Pack  
-- 24-Pack  
+- 24-Pack   
 
-As the shop improves, it becomes a stronger WB-producing system.
+<p align="center">
+  <img src="./collab.png" width="600"/>
+</p>
 
 ---
 
@@ -116,8 +118,6 @@ WB gives users something to work toward.
 - Progression creates WB  
 - WB powers rewards  
 - Claim fees support the treasury  
-
-This creates a simple but strong loop that is easy to understand and scalable over time.
 
 ---
 
