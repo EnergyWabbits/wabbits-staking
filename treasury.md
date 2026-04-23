@@ -222,3 +222,9 @@ Even without massive growth, the treasury builds consistently.
 <p align="center">
   <img src="./treasury.png" width="600"/>
 </p>
+
+---
+
+## 🔗 Navigation
+
+[⬅️ Previous: Games](./games.md) | [🏠 Home](./README.md) | [➡️ Next: Roadmap](./roadmap.md)
