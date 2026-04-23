@@ -14,15 +14,15 @@ EP is the **core production resource** earned through staking.
 
 ### How EP is earned:
 
-- EP is earned by staking Wabbits
-- EP accrues over time through the Work Cycle
-- The amount earned depends on how many Wabbits are staked
+- EP is earned by staking Wabbits  
+- EP accrues over time through the Work Cycle  
+- The amount earned depends on how many Wabbits are staked  
 
 ### How EP is used:
 
-- Build your Burrow Shop
-- Upgrade your Burrow Shop
-- Power store progression
+- Build your Burrow Shop  
+- Upgrade your Burrow Shop  
+- Power store progression  
 
 EP is mainly used to help users grow their in-game production system.
 
@@ -34,16 +34,16 @@ WB is the **main reward currency** inside the ecosystem.
 
 ### How WB is earned:
 
-- Generated through your Burrow Shop
-- Earned through ecosystem reward systems
-- Earned through future gameplay, competitions, or events
+- Generated through your Burrow Shop  
+- Earned through ecosystem reward systems  
+- Earned through gameplay, competitions, or events  
 
 ### How WB is used:
 
-- Buy raffle tickets
-- Enter reward-based activities
-- Participate in ecosystem competitions
-- Access future reward opportunities
+- Cashout for USDC *(will be announced before activation)*  
+- Buy raffle tickets  
+- Enter reward-based activities  
+- Access future reward opportunities  
 
 ---
 
@@ -53,10 +53,10 @@ WB builds up over time and can be claimed through a fee-based system.
 
 ### Key Rules:
 
-- WB accumulates until claimed
-- There is a maximum amount users can hold before needing to claim
-- Claiming WB requires a small fee
-- Claim fees help support the treasury
+- WB accumulates until claimed  
+- There is a maximum amount users can hold before needing to claim  
+- Claiming WB requires a small fee  
+- Claim fees help support the treasury  
 
 This creates a loop where the system can continue funding rewards and future growth.
 
@@ -81,16 +81,16 @@ The Burrow Shop is the main bridge between EP and WB.
 
 ### The role of the shop:
 
-- EP goes into building the shop
-- Shop upgrades improve production
-- Better production leads to more WB generation
+- EP goes into building the shop  
+- Buy partner collab cans  
+- Different cans lead to higher WB generation  
 
 ### Example upgrade path:
 
-- Can
-- 12-Pack
-- 24-Pack
-- Pallet
+- Can  
+- 12-Pack  
+- 24-Pack  
+- Pallet  
 
 As the shop improves, it becomes a stronger WB-producing system.
 
@@ -100,10 +100,10 @@ As the shop improves, it becomes a stronger WB-producing system.
 
 The economy is designed to:
 
-- Reward participation
-- Prevent unlimited passive extraction
-- Encourage active progression
-- Support long-term sustainability
+- Reward participation  
+- Prevent unlimited passive extraction  
+- Encourage active progression  
+- Support long-term sustainability  
 
 EP keeps users building.  
 WB gives users something to work toward.
@@ -112,11 +112,11 @@ WB gives users something to work toward.
 
 ## 🎯 Why This Works
 
-- Staking creates EP
-- EP powers progression
-- Progression creates WB
-- WB powers rewards
-- Claim fees support the treasury
+- Staking creates EP  
+- EP powers progression  
+- Progression creates WB  
+- WB powers rewards  
+- Claim fees support the treasury  
 
 This creates a simple but strong loop that is easy to understand and scalable over time.
 
