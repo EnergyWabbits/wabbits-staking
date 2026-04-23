@@ -112,3 +112,9 @@ Boosts allow you to reset fatigue or extend productivity faster:
 ## 🔁 Simple Loop
 
 Stake → Earn EP → Use or Collect → Reset Fatigue → Repeat
+
+---
+
+## 🔗 Navigation
+
+[🏠 Home](./README.md) | [➡️ Next: Economy](./economy.md)
