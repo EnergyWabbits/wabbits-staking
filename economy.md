@@ -90,7 +90,6 @@ The Burrow Shop is the main bridge between EP and WB.
 - Can  
 - 12-Pack  
 - 24-Pack  
-- Pallet  
 
 As the shop improves, it becomes a stronger WB-producing system.
 
