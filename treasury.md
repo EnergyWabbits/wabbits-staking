@@ -118,3 +118,9 @@ Building WB off-chain first allows:
 Instead of forcing value early, the system is designed to:
 
 👉 **Earn it through activity, participation, and growth**
+
+---
+
+## 🔗 Navigation
+
+[⬅️ Previous: Games](./games.md) | [🏠 Home](./README.md) | [➡️ Next: Roadmap](./roadmap.md)
