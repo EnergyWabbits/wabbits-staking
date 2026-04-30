@@ -66,7 +66,7 @@ There are only two ways to reset fatigue:
 
 - Automatically collects EP  
 - Resets timer instantly  
-- Wabbit keeps working  
+- Wabbit continues working without stopping  
 
 ---
 
@@ -86,9 +86,54 @@ There are only two ways to reset fatigue:
 
 ---
 
+## 🔥 Streak System
+
+The streak system rewards users for keeping their Wabbits active using boosts and avoiding rest.
+
+### How It Works:
+
+- The streak builds **each consecutive day** your Wabbit stays active  
+- A flat bonus is added to your EP per hour  
+- Starts from Day 2  
+- Resets after Day 7  
+- **Streak is lost if the Wabbit rests (unstaked)**  
+- **Streak continues only if fatigue is reset before 24 hours**
+
+---
+
+### 📊 Streak Bonus Chart
+
+| Streak Day | Bonus EP/hr |
+|------------|------------|
+| Day 1      | +0 (base rate only) |
+| Day 2      | +0.5 |
+| Day 3      | +1.0 |
+| Day 4      | +1.5 |
+| Day 5      | +2.0 |
+| Day 6      | +2.5 |
+| Day 7      | +3.0 → resets |
+
+---
+
+### 🧠 Key Rule
+
+👉 If your Wabbit hits **0 fatigue for the day**, the streak reset back to Day 1  
+👉 If your Wabbit **rests**, the streak resets back to Day 1  
+
+---
+
+### 🎯 Why This Matters
+
+- Rewards active players  
+- Encourages boost usage  
+- Increases long-term engagement  
+- Adds strategy to staking  
+
+---
+
 ## 🚀 Boost Packs
 
-Boosts allow you to reset fatigue or extend productivity faster:
+Boosts allow you to reset fatigue and maintain streaks:
 
 | Boost Pack   | Price | Coverage        |
 |-------------|------|-----------------|
@@ -107,7 +152,7 @@ Boosts allow you to reset fatigue or extend productivity faster:
 
 ## 🔁 Simple Loop
 
-Stake → Earn EP → Convert to WB → Use WB (Games & Raffles) → Repeat
+Stake → Earn EP → Maintain Streak → Convert to WB → Use WB (Games & Raffles) → Repeat
 
 ---
 
