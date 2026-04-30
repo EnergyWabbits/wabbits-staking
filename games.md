@@ -3,7 +3,12 @@
 ## Access
 
 - An **active staked Wabbit** is required to play  
-- All games run on **WB (Wabbit Bucks)**  
+- All games primarily run on **WB (Wabbit Bucks)**  
+
+### Alternative Access:
+
+- If a user does not have WB, they can still play by paying a **$0.25 fee per game**  
+- This allows new users to participate while still contributing to the ecosystem  
 
 ---
 
@@ -29,7 +34,7 @@ The casino includes multiple game sections:
 
 | Result      | Reward |
 |------------|--------|
-| Jackpot     | Jackpot pool payout (2% base chance, boosted by Luck Meter) |
+| Jackpot     | Jackpot pool payout |
 | Big Match   | Bonus WB |
 | Small Match | Small WB or EP reward |
 | No Match    | Lose 5 WB |
@@ -112,7 +117,7 @@ Skill-based mini-games powered by WB.
 ## 🔁 How Games Fit Into The Ecosystem
 
 1. Earn WB from your Burrow Shop  
-2. Use WB to play games  
+2. Use WB (or $0.25 alternative fee) to play games  
 3. Win rewards  
 4. Reinvest or compete again  
 
