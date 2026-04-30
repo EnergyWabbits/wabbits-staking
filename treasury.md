@@ -119,7 +119,7 @@ Instead of forcing value early, the system is designed to:
 
 👉 **Earn it through activity, participation, and growth**
 
----
+--- 
 
 ## 🔗 Navigation
 
