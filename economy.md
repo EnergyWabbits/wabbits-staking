@@ -121,9 +121,6 @@ WB gives users something to work toward.
 
 ---
 
-
----
-
 ## 🔗 Navigation
 
 [⬅️ Previous: Staking](./staking.md) | [🏠 Home](./README.md) | [➡️ Next: Games](./games.md)
