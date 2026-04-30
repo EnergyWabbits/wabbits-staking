@@ -62,7 +62,7 @@ The fatigue system prevents unlimited passive farming and encourages daily inter
 
 There are only two ways to reset fatigue:
 
-### 🥤 Energy Drink
+### 🥤 Energy Drink (Boost Packs)
 
 - Automatically collects EP  
 - Resets timer instantly  
