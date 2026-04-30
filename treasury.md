@@ -1,230 +1,120 @@
-# 🏦 Energy Wabbits — Treasury System
+## 🧠 How the Treasury Grows
 
-## Overview
+The Energy Wabbits treasury is designed to grow through **continuous ecosystem activity**, not just one source.
 
-The Energy Wabbits treasury is designed to create a **self-sustaining ecosystem** powered by real user activity.
-
-The system generates value through:
-
-- WB claim fees  
-- Raffle participation  
-- Boost usage  
-- 10% tax on winnings  
+Every major interaction inside the ecosystem contributes in some way, creating a loop where participation strengthens the entire system.
 
 ---
 
-## 💸 Treasury Inflows
+### 🎮 Gameplay Contribution
 
-### 1. WB Claim Fee
+When users engage with games:
 
-- Max WB hold = **25 WB**
-- Raffle ticket = **100 WB**
+- Casino activity  
+- Arcade gameplay  
+- Raffles  
 
-👉 This forces users to claim **multiple times just to participate**
+A portion of this activity flows back into the treasury through:
 
-### Real Behavior:
+- Entry fees  
+- Ticket fees  
+- A percentage of winnings  
 
-- 1 ticket = at least **4 claims**
-- Most users buy **10–15 tickets per month**
-
----
-
-### 2. 10% Tax on Winnings
-
-Applied to:
-
-- Casino winnings  
-- Arcade winnings  
-- Raffle payouts  
+As more users participate, the system naturally becomes more active and self-sustaining.
 
 ---
 
-### 3. Raffle Ticket Fees
+### 🎟️ Raffles & Rewards
 
-- 1 ticket = **100 WB + $0.05 fee**
-- Max 10 tickets per raffle
-- ~10 raffles running
+Raffles are a key driver of engagement and treasury growth.
 
----
+- Users spend WB to participate  
+- Each ticket includes a small fee  
+- Winning payouts contribute back through a percentage  
 
-### 4. Boost Pack Usage
+This creates a cycle where:
 
-| Boost Pack   | Price |
-|-------------|------|
-| Single Can  | $0.10 |
-| 12-Pack     | $0.50 |
-| 24-Pack     | $0.85 |
-| Full Pallet | $1.25 |
+👉 Participation → Rewards → Treasury Growth → More Opportunities  
 
 ---
 
-## 🔁 Core Flow
+### 💸 WB Claiming & Cash Flow
 
-Stake → Earn WB → Claim (fees) → Play → Win → Tax → Treasury → Repeat
+The WB claim system also contributes:
 
----
+- Users must claim WB to use it  
+- Each claim includes a small fee  
+- Higher activity leads to more claims  
 
-# 📊 REALISTIC SCENARIOS
-
----
-
-## 🧪 Scenario 1 — 50 Active Users
-
-### 🎟️ Ticket Behavior
-
-- Avg 12 tickets per user/month  
-- Each ticket requires ~4 claims  
-
-👉 Claims per user:
-12 × 4 = **48 claims/month**
-
-👉 Total claims:
-50 × 48 = 2,400 claims  
-
-👉 Claim fees:
-2,400 × $0.15 = **$360**
+This creates a steady and consistent inflow tied directly to user behavior.
 
 ---
 
-### 🎟️ Raffle Fees
+### ⚡ Boost Packs & Utility
 
-- Avg 25 users per raffle  
-- Avg 5 tickets each  
+Boost packs allow users to stay active and maintain streaks.
 
-👉 Tickets per raffle:
-25 × 5 = 125  
-
-👉 Fee per raffle:
-125 × $0.05 = $6.25  
-
-👉 10 raffles:
-$6.25 × 10 = **$62.50**
+- Used frequently by active players  
+- Provide convenience and performance benefits  
+- Add consistent value into the treasury  
 
 ---
 
-### 🏆 Winnings Tax
+### 🛍️ Real-World Sales
 
-- Avg payout per raffle = $150  
-- 10% tax = $15 per raffle  
+The ecosystem is also supported by:
 
-👉 10 raffles:
-$15 × 10 = **$150**
+- NFT Energy drink sales  
+- Merchandise  
+- Brand partnerships  
+- Future product expansions  
 
----
-
-### ⚡ Boost Usage
-
-- 25 users buy boosts  
-- Avg spend = $0.75  
-
-👉 Boost revenue:
-25 × $0.75 = **$18.75**
+These real-world revenue streams contribute additional strength to the treasury and overall ecosystem.
 
 ---
 
-## 📊 Monthly Total (50 Users)
+## 🔁 The Bigger Picture
 
-- Claim Fees: $360  
-- Raffle Fees: $62.50  
-- Winnings Tax: $150  
-- Boosts: $18.75  
+Everything in Energy Wabbits is connected:
 
-👉 **Total: ~$590/month**
+Players → Earn → Spend → Play → Win → Fees → Treasury → Rewards → Repeat  
 
----
-
-## 🧪 Scenario 2 — 100 Active Users
-
-### 🎟️ Ticket Behavior
-
-- Avg 15 tickets per user/month  
-- Each ticket = 4 claims  
-
-👉 Claims per user:
-15 × 4 = 60 claims  
-
-👉 Total claims:
-100 × 60 = 6,000  
-
-👉 Claim fees:
-6,000 × $0.15 = **$900**
+As activity increases, the treasury grows, and the ecosystem becomes stronger.
 
 ---
 
-### 🎟️ Raffle Fees
+## ⚠️ Future Outlook (Important)
 
-- Avg 50 users per raffle  
-- Avg 6 tickets each  
+WB currently operates as an **off-chain currency**, allowing the ecosystem to grow without external pressure.
 
-👉 Tickets:
-50 × 6 = 300  
+As WB usage increases:
 
-👉 Fee per raffle:
-300 × $0.05 = $15  
+- The treasury grows  
+- Activity increases  
+- The system becomes more stable  
 
-👉 10 raffles:
-$15 × 10 = **$150**
+### Long-Term Direction:
 
----
+If and when the ecosystem reaches a strong position:
 
-### 🏆 Winnings Tax
+- An on-chain version of WB may be introduced  
+- Initial liquidity would be supported by:
+  - Treasury growth  
+  - Ecosystem activity  
+  - Product and brand revenue  
 
-- Avg payout per raffle = $300  
-- 10% tax = $30  
-
-👉 10 raffles:
-$30 × 10 = **$300**
+This approach allows for a **more stable and supported launch**, rather than relying on speculation.
 
 ---
 
-### ⚡ Boost Usage
+## 🎯 Why This Matters
 
-- 50 users buy boosts  
-- Avg spend = $1  
+Building WB off-chain first allows:
 
-👉 Boost revenue:
-50 × $1 = **$50**
+- Real usage before speculation  
+- Stronger foundation for growth  
+- A healthier long-term ecosystem  
 
----
+Instead of forcing value early, the system is designed to:
 
-## 📊 Monthly Total (100 Users)
-
-- Claim Fees: $900  
-- Raffle Fees: $150  
-- Winnings Tax: $300  
-- Boosts: $50  
-
-👉 **Total: ~$1,400/month**
-
----
-
-## ⚖️ Why This Model Works
-
-- Forced claim loop = consistent revenue  
-- Raffles = engagement + fees  
-- Winnings tax = scales with activity  
-- Boosts = optional high-margin actions  
-
----
-
-## 🎯 Key Advantage
-
-The system benefits from:
-
-- High engagement loops  
-- Multiple revenue streams  
-- Natural scaling with user activity  
-
-Even without massive growth, the treasury builds consistently.
-
----
-
-<p align="center">
-  <img src="./treasury.png" width="600"/>
-</p>
-
----
-
-## 🔗 Navigation
-
-[⬅️ Previous: Games](./games.md) | [🏠 Home](./README.md) | [➡️ Next: Roadmap](./roadmap.md)
+👉 **Earn it through activity, participation, and growth**
