@@ -6,12 +6,13 @@ Energy Wabbits uses a **gamified Work Cycle system**.
 
 Players stake their Wabbit NFTs to earn **Energy Points (EP)** off-chain, which can later convert into **Wabbit Bucks (WB)** — the main in-game currency.
 
+WB is used throughout the ecosystem for **games, raffles, and reward-based activities**.
+
 ---
 
 ## 🧠 Staking
 
 - Players stake Wabbits through the staking system  
-- The NFT is securely stored while staked  
 - A Work Cycle begins immediately  
 
 ### Key Features:
@@ -46,15 +47,6 @@ The system uses **diminishing returns** to keep the economy balanced.
 
 ---
 
----
-
-## 📊 Formula
-
-- Global Multiplier can increase during events or promotions  
-- Default multiplier is 1.0  
-
----
-
 ## 🔋 Fatigue System
 
 The fatigue system prevents unlimited passive farming and encourages daily interaction.
@@ -76,17 +68,21 @@ There are only two ways to reset fatigue:
 - Resets timer instantly  
 - Wabbit keeps working  
 
+---
+
 ### 💤 Natural Rest
 
 - Unstake the Wabbit  
-- Wait 24 hours  
-- Fully resets fatigue  
+- All pending EP is automatically collected  
+- Wabbit must rest for **24 hours**  
+- After resting, it can be staked again at full efficiency  
 
 ---
 
 ### ⚠️ Important
 
-Manually claiming EP does NOT reset fatigue.
+- Manually claiming EP does NOT reset fatigue  
+- Unstaking always collects your EP before the rest period begins  
 
 ---
 
@@ -111,7 +107,7 @@ Boosts allow you to reset fatigue or extend productivity faster:
 
 ## 🔁 Simple Loop
 
-Stake → Earn EP → Use or Collect → Reset Fatigue → Repeat
+Stake → Earn EP → Convert to WB → Use WB (Games & Raffles) → Repeat
 
 ---
 
