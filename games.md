@@ -132,11 +132,6 @@ Skill-based mini-games powered by WB.
 
 ---
 
-<p align="center">
-  <img src="./games.png" width="600"/>
-</p>
-
----
 
 ## 🔗 Navigation
 
