@@ -20,11 +20,11 @@ EP is the **core production resource** earned through staking.
 
 ### How EP is used:
 
-- Build your Burrow Shop  
-- Upgrade your Burrow Shop  
-- Power store progression  
+- Buy partner collab cans  
+- Upgrade your Wabbit crew  
+- Earn through social posting and being active in the ecosystem  
 
-EP is mainly used to help users grow their in-game production system.
+EP is used to drive both **progression and community engagement**, making activity just as valuable as staking.
 
 ---
 
@@ -64,8 +64,8 @@ WB builds up over time and can be claimed through a fee-based system.
 
 1. Stake Wabbits  
 2. Earn EP  
-3. Use EP to build and upgrade your Burrow Shop  
-4. Burrow Shop generates WB  
+3. Use EP to upgrade crew and acquire partner cans  
+4. Production systems generate WB  
 5. Use WB for raffles, rewards, and competitions  
 6. Claim WB through the fee-based claim system  
 
