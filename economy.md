@@ -121,9 +121,6 @@ WB gives users something to work toward.
 
 ---
 
-<p align="center">
-  <img src="./economy.png" width="600"/>
-</p>
 
 ---
 
