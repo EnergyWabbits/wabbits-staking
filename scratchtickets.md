@@ -96,3 +96,11 @@ The Scratch Ticket system is designed to balance rewarding gameplay with ecosyst
 Reward structures, prize pools, and available prizes may be adjusted over time as the platform evolves.
 
 The objective is to create a sustainable experience that benefits both participants and the broader Energy Wabbits Lunaverse ecosystem.
+
+## Navigation
+
+🏠 [Home](./README.md)
+
+➡️ [Next: Wheel Spins](./wheelspins.md)
+
+---
