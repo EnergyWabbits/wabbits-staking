@@ -52,15 +52,14 @@ As reward rarity increases, so does the value and exclusivity of the prize.
 
 ---
 
-### Common Tier
+### Common/Uncommon Tier
 
 Common rewards serve as the base reward layer of the Wheel.
 
 Examples may include:
 
 - LDZ Rewards
-- Community Rewards
-- Promotional Rewards
+- Lower Market Cap NFTs
 
 ---
 
@@ -71,7 +70,7 @@ Rare rewards provide additional value beyond standard Wheel outcomes.
 Examples may include:
 
 - Premium LDZ Rewards
-- Bonus Rewards
+- Midsize Market Cap NFTs
 - Special Event Rewards
 
 ---
@@ -82,9 +81,9 @@ Epic rewards represent some of the more valuable prizes available through the Wh
 
 Examples may include:
 
-- NFT Rewards
-- Premium Community Rewards
-- Exclusive Promotional Rewards
+- Higher LDZ Rewards
+- Premium NFTs
+- Sol Jackpts
 
 ---
 
@@ -97,9 +96,8 @@ These prizes are designed to be rare and highly sought after.
 Examples may include:
 
 - Rare NFTs
-- Premium NFT Collections
 - Exclusive Ecosystem Rewards
-- Special Event Prizes
+- Higher Jackpot Rewards
 
 ---
 
