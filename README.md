@@ -4,7 +4,7 @@
 
 Welcome to the official Energy Wabbits Lunaverse ecosystem breakdown.
 
-Energy Wabbits Lunaverse is a community-driven ecosystem built around NFT ownership, Scratch Tickets, Wheel Spins, LDZ rewards, staking incentives, and future ecosystem expansion.
+Energy Wabbits Lunaverse is a community-driven ecosystem built around NFT ownership, Scratch Tickets, Wheel Spins, and staking incentives.
 
 Built in partnership with Lunaverse, the platform is designed to create fun and engaging experiences while providing additional utility for Energy Wabbits holders.
 
@@ -31,9 +31,7 @@ Players can participate through:
 
 - Scratch Tickets
 - Wheel Spins
-- LDZ Rewards
 - Staking Rewards
-- Future Ecosystem Features
 
 One of the core goals of the platform is accessibility.
 
@@ -50,8 +48,8 @@ As platform activity grows, the ecosystem may continue expanding with additional
 ## 🤝 Powered By
 
 - Energy Wabbits
+- NFT Energy Drinks
 - Lunaverse
-- LDZ Ecosystem
 
 Together, these platforms help create a rewarding and sustainable experience for both NFT holders and non-holders alike.
 
