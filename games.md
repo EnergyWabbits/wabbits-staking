@@ -1,138 +1,107 @@
-# 🎮 Energy Wabbits — Games System
+# 💎 NFT Staking
 
-## Access
+NFT Staking is one of the core utility features available to Energy Wabbits holders.
 
-- An **active staked Wabbit** is required to play  
-- All games primarily run on **WB (Wabbit Bucks)**  
-
-### Alternative Access:
-
-- If a user does not have WB, they can still play by paying a **$0.25 fee per game**  
-- This allows new users to participate while still contributing to the ecosystem  
+By staking Energy Wabbits NFTs, holders become eligible to earn LDZ rewards while supporting the long-term growth of the ecosystem.
 
 ---
 
-## 🎰 Casino Overview
+## How Staking Works
 
-The casino includes multiple game sections:
+Energy Wabbits holders may stake their NFTs through the Energy Wabbits Lunaverse platform.
 
-- Slots  
-- Arcade  
-- Trivia  
-- Poker  
-- Wheel of Prizes  
-- Leaderboard  
+Once staked, NFTs become eligible to earn staking rewards based on the active reward pool.
+
+Staking is designed to reward long-term participation while aligning holder incentives with the overall growth of the ecosystem.
 
 ---
 
-## 🎰 Slots
+## Staking Rewards
 
-- Fixed cost: **5 WB per spin**  
-- Match symbols to win rewards  
+Staking rewards are distributed in LDZ.
 
-### Outcomes:
+The amount of rewards available for distribution may vary over time based on ecosystem activity and platform performance.
 
-| Result      | Reward |
-|------------|--------|
-| Jackpot     | Jackpot pool payout |
-| Big Match   | Bonus WB |
-| Small Match | Small WB or EP reward |
-| No Match    | Lose 5 WB |
+Unlike fixed reward systems, Energy Wabbits staking is designed to scale alongside the ecosystem.
 
 ---
 
-### 🎁 Bonus
+## Revenue-Driven Rewards
 
-- Every **10 paid games** earns:
-  - **1 free Wheel of Prizes spin**
+A portion of revenue generated throughout the Energy Wabbits Lunaverse ecosystem may be allocated toward staking rewards.
 
----
+This includes activity generated from:
 
-## 🧠 Trivia
+- Scratch Tickets
+- Wheel Spins
+- Future Games
+- Future Ecosystem Features
+- Community Partnerships
+- Platform Expansion
 
-Skill-based quiz system inside the casino.
-
-### Features:
-
-- Answer questions correctly  
-- Earn WB for correct answers  
-- Designed for knowledge + engagement  
+As ecosystem participation increases, the staking reward pool may also increase.
 
 ---
 
-## ♠️ Poker
+## Alignment With Ecosystem Growth
 
-Multiple ways to play:
+The staking model is designed to align NFT holders with the success of the platform.
 
-### Modes:
+The objective is simple:
 
-- **Multiplayer Tables**
-  - Create or join tables  
-  - Player vs. player  
+- More Participation
+- More Platform Activity
+- More Ecosystem Revenue
+- Larger Reward Pools
+- Greater Staking Opportunities
 
-- **Solo Mode**
-  - Play against the dealer  
-
-### Entry:
-
-- WB is used to join tables  
+This creates a system where ecosystem growth has the potential to benefit active holders.
 
 ---
 
-## 🎡 Wheel of Prizes
+## Long-Term Sustainability
 
-- Earn **1 free spin for every 10 games played**  
+Energy Wabbits staking is not designed as a fixed-yield system.
 
-### Possible Rewards:
+Reward allocations may be adjusted over time to ensure long-term sustainability and support continued ecosystem growth.
 
-- WB  
-- EP  
-- NFTs  
-- Special items  
+This allows the platform to balance:
 
-### Notes:
-
-- Rewards are based on available prize pools  
-- Odds can be adjusted based on inventory  
+- Holder Rewards
+- Platform Development
+- Marketing Initiatives
+- Treasury Growth
+- Future Expansion
 
 ---
 
-## 🕹️ Arcade Games
+## Holder Benefits
 
-Skill-based mini-games powered by WB.
+Staking may provide access to additional benefits beyond LDZ rewards.
 
-### Features:
+Future benefits may include:
 
-- Cost: **1 WB per game**  
-- Score determines your payout multiplier  
+- Exclusive Events
+- Community Incentives
+- Reward Multipliers
+- Special Promotions
+- Future Utility Features
+- Holder-Only Opportunities
 
-### Examples:
-
-- Reaction games  
-- Timing games  
-- Score-based challenges  
-
----
-
-## 🔁 How Games Fit Into The Ecosystem
-
-1. Earn WB from your Burrow Shop  
-2. Use WB (or $0.25 alternative fee) to play games  
-3. Win rewards  
-4. Reinvest or compete again  
+Additional benefits may be introduced as the ecosystem evolves.
 
 ---
 
-## 🎯 Purpose of Games
+## Future Expansion
 
-- Drive engagement  
-- Give WB real utility  
-- Create competition  
-- Reward active players  
+As Energy Wabbits Lunaverse continues to grow, staking mechanics may expand to include additional reward opportunities, ecosystem integrations, and holder-focused features.
+
+The goal is to create long-term utility that rewards participation while supporting a sustainable ecosystem.
 
 ---
 
+## Important Note
 
-## 🔗 Navigation
+Staking rewards are not guaranteed and may vary based on platform activity, ecosystem participation, reward allocations, and future economic adjustments.
 
-[⬅️ Previous: Economy](./economy.md) | [🏠 Home](./README.md) | [➡️ Next: Treasury](./treasury.md)
+Reward structures may evolve over time as the platform grows.
