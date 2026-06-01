@@ -20,7 +20,6 @@ https://energywabbits.lunarverse.app/
 - [Wheel Spins](./wheelspins.md)
 - [Staking](./staking.md)
 - [Community Rewards](./rewards.md)
-- [Roadmap](./roadmap.md)
 
 ---
 
