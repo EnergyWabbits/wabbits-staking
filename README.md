@@ -16,7 +16,7 @@ https://energywabbits.lunarverse.app/
 
 ## 📖 Sections
 
-- [Staking System](./staking.md)
+- [Scratch Tikets](./scratchtickets.md)
 - [Economy](./economy.md)
 - [Games & Rewards](./games.md)
 - [Treasury](./treasury.md)
