@@ -66,3 +66,9 @@ Platform mechanics, rewards, staking allocations, prize structures, and ecosyste
 Participation does not guarantee rewards, profits, or future performance.
 
 Always participate responsibly.
+
+---
+
+## Navigation
+
+➡️ **Next:** [Scratch Tickets](./scratchtickets.md)
