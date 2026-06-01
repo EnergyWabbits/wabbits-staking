@@ -42,11 +42,8 @@ Winning Scratch Tickets may award:
 
 - LDZ Rewards
 - Wheel Spins
-- Premium Wheel Spin Bundles
-- Community Rewards
-- Promotional Rewards
-- Limited-Time Event Rewards
-- Special Ecosystem Prizes
+- Memecoins (Partner Tokens)
+- Sol Rewards
 
 Available rewards may change throughout the life of the platform.
 
