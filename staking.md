@@ -100,6 +100,16 @@ The goal is to create long-term utility that rewards participation while support
 
 ---
 
+## Navigation
+
+🏠 [Home](./README.md)
+
+⬅️ [Back: Wheel Spins](./wheelspins.md)
+
+➡️ [Next: Community Rewards](./rewards.md)
+
+---
+
 ## Important Note
 
 Staking rewards are not guaranteed and may vary based on platform activity, ecosystem participation, reward allocations, and future economic adjustments.
