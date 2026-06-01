@@ -94,3 +94,11 @@ Future community reward systems may include:
 - Exclusive holder opportunities
 
 Reward structures may evolve over time as the Energy Wabbits Lunaverse ecosystem expands.
+
+---
+
+## Navigation
+
+🏠 [Home](./README.md)
+
+⬅️ [Back: Staking](./staking.md)
