@@ -19,7 +19,7 @@ https://energywabbits.lunarverse.app/
 - [Scratch Tikets](./scratchtickets.md)
 - [Wheel Spins](./wheelspins.md)
 - [Staking](./staking.md)
-- [Treasury](./treasury.md)
+- [Community Rewards](./rewards.md)
 - [Roadmap](./roadmap.md)
 
 ---
