@@ -1,4 +1,4 @@
-# 💎 NFT Staking
+# 💎 Wabbit Staking
 
 NFT Staking is one of the core utility features available to Energy Wabbits holders.
 
