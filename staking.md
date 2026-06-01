@@ -100,6 +100,12 @@ The goal is to create long-term utility that rewards participation while support
 
 ---
 
+## Important Note
+
+Staking rewards are not guaranteed and may vary based on platform activity, ecosystem participation, reward allocations, and future economic adjustments.
+
+Reward structures may evolve over time as the platform grows.
+
 ## Navigation
 
 🏠 [Home](./README.md)
@@ -107,11 +113,3 @@ The goal is to create long-term utility that rewards participation while support
 ⬅️ [Back: Wheel Spins](./wheelspins.md)
 
 ➡️ [Next: Community Rewards](./rewards.md)
-
----
-
-## Important Note
-
-Staking rewards are not guaranteed and may vary based on platform activity, ecosystem participation, reward allocations, and future economic adjustments.
-
-Reward structures may evolve over time as the platform grows.
