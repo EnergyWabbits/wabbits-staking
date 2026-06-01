@@ -135,3 +135,13 @@ Reward structures and available prizes may evolve over time as the platform grow
 As Energy Wabbits Lunaverse continues to develop, additional reward categories, NFT partnerships, and premium experiences may be introduced to the Wheel.
 
 The goal is to continually expand the value and excitement available to participants while maintaining a sustainable ecosystem.
+
+## Navigation
+
+🏠 [Home](./README.md)
+
+⬅️ [Back: Scratch Tickets](./scratchtickets.md)
+
+➡️ [Next: Staking](./staking.md)
+
+---
