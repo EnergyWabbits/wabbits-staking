@@ -1,126 +1,96 @@
-## 🧠 How the Treasury Grows
+# 🤝 Community Rewards
 
-The Energy Wabbits treasury is designed to grow through **continuous ecosystem activity**, not just one source.
+The Energy Wabbits community is built around participation.
 
-Every major interaction inside the ecosystem contributes in some way, creating a loop where participation strengthens the entire system.
-
----
-
-### 🎮 Gameplay Contribution
-
-When users engage with games:
-
-- Casino activity  
-- Arcade gameplay  
-- Raffles  
-
-A portion of this activity flows back into the treasury through:
-
-- Entry fees  
-- Ticket fees  
-- A percentage of winnings  
-
-As more users participate, the system naturally becomes more active and self-sustaining.
+In addition to staking rewards and platform activities, Energy Wabbits holders may earn LDZ through active participation within the community.
 
 ---
 
-### 🎟️ Raffles & Rewards
+## Discord Rewards
 
-Raffles are a key driver of engagement and treasury growth.
+Energy Wabbits holders who own a Wabbit NFT may verify their ownership within the official Discord server.
 
-- Users spend WB to participate  
-- Each ticket includes a small fee  
-- Winning payouts contribute back through a percentage  
+Once verified, holders become eligible for community-based reward opportunities.
 
-This creates a cycle where:
-
-👉 Participation → Rewards → Treasury Growth → More Opportunities  
+The goal is to reward members who actively contribute to the growth and success of the ecosystem.
 
 ---
 
-### 💸 WB Claiming & Cash Flow
+## How To Participate
 
-The WB claim system also contributes:
-
-- Users must claim WB to use it  
-- Each claim includes a small fee  
-- Higher activity leads to more claims  
-
-This creates a steady and consistent inflow tied directly to user behavior.
+1. Own an Energy Wabbit NFT
+2. Verify your wallet within the official Discord
+3. Participate in the community
+4. Complete community activities
+5. Earn LDZ rewards
 
 ---
 
-### ⚡ Boost Packs & Utility
+## Ways To Earn
 
-Boost packs allow users to stay active and maintain streaks.
+Verified holders may earn LDZ through activities such as:
 
-- Used frequently by active players  
-- Provide convenience and performance benefits  
-- Add consistent value into the treasury  
-
----
-
-### 🛍️ Real-World Sales
-
-The ecosystem is also supported by:
-
-- NFT Energy drink sales  
-- Merchandise  
-- Brand partnerships  
-- Future product expansions  
-
-These real-world revenue streams contribute additional strength to the treasury and overall ecosystem.
+- Participating in community discussions
+- Being active in Discord
+- Helping new community members
+- Supporting ecosystem initiatives
+- Participating in community events
+- Completing promotional campaigns
+- Creating content
+- Sharing artwork
+- Providing feedback
+- Contributing ideas
 
 ---
 
-## 🔁 The Bigger Picture
+## Social Media Rewards
 
-Everything in Energy Wabbits is connected:
+Community members may also earn LDZ by helping promote the Energy Wabbits ecosystem across social platforms.
 
-Players → Earn → Spend → Play → Win → Fees → Treasury → Rewards → Repeat  
+Examples may include:
 
-As activity increases, the treasury grows, and the ecosystem becomes stronger.
+- Creating original content
+- Posting on X
+- Sharing ecosystem updates
+- Participating in marketing campaigns
+- Creating videos
+- Creating memes
+- Engaging with official posts
+- Supporting community growth initiatives
 
----
-
-## ⚠️ Future Outlook (Important)
-
-WB currently operates as an **off-chain currency**, allowing the ecosystem to grow without external pressure.
-
-As WB usage increases:
-
-- The treasury grows  
-- Activity increases  
-- The system becomes more stable  
-
-### Long-Term Direction:
-
-If and when the ecosystem reaches a strong position:
-
-- An on-chain version of WB may be introduced  
-- Initial liquidity would be supported by:
-  - Treasury growth  
-  - Ecosystem activity  
-  - Product and brand revenue  
-
-This approach allows for a **more stable and supported launch**, rather than relying on speculation.
+Reward opportunities may vary depending on active campaigns and community objectives.
 
 ---
 
-## 🎯 Why This Matters
+## Community Ranking System
 
-Building WB off-chain first allows:
+Community participation may contribute toward ranking systems, leaderboards, and future reward opportunities.
 
-- Real usage before speculation  
-- Stronger foundation for growth  
-- A healthier long-term ecosystem  
+Members who consistently contribute to the ecosystem may receive additional recognition and reward opportunities.
 
-Instead of forcing value early, the system is designed to:
+The objective is to encourage long-term participation and community growth.
 
-👉 **Earn it through activity, participation, and growth**
+---
 
---- 
+## Community First
 
-## 🔗 Navigation
+The Energy Wabbits ecosystem is built around its community.
 
-[⬅️ Previous: Games](./games.md) | [🏠 Home](./README.md) | [➡️ Next: Roadmap](./roadmap.md)
+By rewarding active participation, the project aims to create a positive environment where members are encouraged to contribute, collaborate, and help expand the ecosystem.
+
+As the community grows, additional reward opportunities, events, and participation systems may be introduced.
+
+---
+
+## Future Expansion
+
+Future community reward systems may include:
+
+- Additional Discord incentives
+- Community competitions
+- Seasonal campaigns
+- Ambassador programs
+- Special community events
+- Exclusive holder opportunities
+
+Reward structures may evolve over time as the Energy Wabbits Lunaverse ecosystem expands.
