@@ -1,126 +1,137 @@
-# 💰 Energy Wabbits — Economy
+# 🎡 Wheel Spins
 
-## Overview
+The Wheel is the premium reward experience within the Energy Wabbits Lunaverse ecosystem.
 
-The Energy Wabbits ecosystem runs on a **dual-currency system** designed to create a sustainable and engaging loop.
-
-The economy is built to keep users active by turning staking into progression, and progression into reward opportunities.
+Designed to provide access to larger rewards and exclusive opportunities, the Wheel offers participants a chance to unlock prizes that are not typically available through Scratch Tickets.
 
 ---
 
-## ⚡ EP (Energy Points)
+## Wheel Price
 
-EP is the **core production resource** earned through staking.
+- $5 Per Spin
 
-### How EP is earned:
+Wheel Spins may be obtained through:
 
-- EP is earned by staking Wabbits  
-- EP accrues over time through the Work Cycle  
-- The amount earned depends on how many Wabbits are staked  
-
-### How EP is used:
-
-- Buy partner collab cans  
-- Upgrade your Wabbit crew  
-- Earn through social posting and being active in the ecosystem  
-
-EP is used to drive both **progression and community engagement**, making activity just as valuable as staking.
+- Direct Purchase
+- Scratch Ticket Rewards
+- Community Events
+- Promotional Campaigns
+- Future Ecosystem Activities
 
 ---
 
-## 🟣 WB (Wabbit Bucks)
+## How It Works
 
-WB is the **main reward currency** inside the ecosystem.
+Each Wheel Spin generates a reward outcome.
 
-### How WB is earned:
+Participants spin the wheel and receive the reward associated with the section landed on.
 
-- Generated through your Burrow Shop  
-- Earned through ecosystem reward systems  
-- Earned through gameplay, competitions, or events  
+Every Wheel Spin results in a reward.
 
-### How WB is used:
-
-- Cashout for USDC *(will be announced before activation)*  
-- Buy raffle tickets  
-- Enter reward-based activities  
-- Access future reward opportunities  
+There are no empty spaces on the Wheel.
 
 ---
 
-## 💸 Claiming WB
+## LDZ Consolation Rewards
 
-WB builds up over time and can be claimed through a fee-based system.
+If a participant does not land on a premium reward, they will receive an LDZ reward.
 
-### Key Rules:
+LDZ serves as the foundation reward layer of the Wheel and ensures every spin provides value back to the participant.
 
-- WB accumulates until claimed  
-- There is a maximum amount users can hold before needing to claim  
-- Claiming WB requires a small fee  
-- Claim fees help support the treasury  
+Reward amounts may vary.
 
 ---
 
-## 🔁 The Core Economy Loop
+## Tiered Reward System
 
-1. Stake Wabbits  
-2. Earn EP  
-3. Use EP to upgrade crew and acquire partner cans  
-4. Production systems generate WB  
-5. Use WB for raffles, rewards, and competitions  
-6. Claim WB through the fee-based claim system  
+The Wheel is structured using reward tiers.
 
----
+Each tier contains different categories of rewards ranging from common rewards to premium ecosystem prizes.
 
-## 🏪 Burrow Shop System
-
-The Burrow Shop is the main bridge between EP and WB.
-
-<p align="center">
-  <img src="./store.png" width="600"/>
-</p>
-
-### The role of the shop:
-
-- EP goes into building the shop  
-- Buy partner collab cans  
-- Different cans lead to higher WB generation  
-
-### Example upgrade path:
-
-- Can  
-- 12-Pack  
-- 24-Pack   
-
-<p align="center">
-  <img src="./collab.png" width="600"/>
-</p>
+As reward rarity increases, so does the value and exclusivity of the prize.
 
 ---
 
-## ⚖️ Balance Design
+### Common Tier
 
-The economy is designed to:
+Common rewards serve as the base reward layer of the Wheel.
 
-- Reward participation  
-- Prevent unlimited passive extraction  
-- Encourage active progression  
-- Support long-term sustainability  
+Examples may include:
 
-EP keeps users building.  
-WB gives users something to work toward.
+- LDZ Rewards
+- Community Rewards
+- Promotional Rewards
 
 ---
 
-## 🎯 Why This Works
+### Rare Tier
 
-- Staking creates EP  
-- EP powers progression  
-- Progression creates WB  
-- WB powers rewards  
-- Claim fees support the treasury  
+Rare rewards provide additional value beyond standard Wheel outcomes.
+
+Examples may include:
+
+- Premium LDZ Rewards
+- Bonus Rewards
+- Special Event Rewards
 
 ---
 
-## 🔗 Navigation
+### Epic Tier
 
-[⬅️ Previous: Staking](./staking.md) | [🏠 Home](./README.md) | [➡️ Next: Games](./games.md)
+Epic rewards represent some of the more valuable prizes available through the Wheel.
+
+Examples may include:
+
+- NFT Rewards
+- Premium Community Rewards
+- Exclusive Promotional Rewards
+
+---
+
+### Legendary Tier
+
+Legendary rewards represent the highest reward tier available through the Wheel.
+
+These prizes are designed to be rare and highly sought after.
+
+Examples may include:
+
+- Rare NFTs
+- Premium NFT Collections
+- Exclusive Ecosystem Rewards
+- Special Event Prizes
+
+---
+
+## NFT Rewards
+
+NFTs are expected to serve as one of the primary premium reward categories within the Wheel.
+
+As partnerships and ecosystem opportunities expand, additional NFT collections may be introduced into reward pools.
+
+NFT availability may vary depending on active campaigns and reward schedules.
+
+---
+
+## Sustainability
+
+The Wheel is designed to balance exciting reward opportunities with long-term ecosystem sustainability.
+
+A portion of Wheel revenue may support:
+
+- Reward Pools
+- NFT Staking Rewards
+- Platform Development
+- Marketing Initiatives
+- Treasury Growth
+- Future Ecosystem Expansion
+
+Reward structures and available prizes may evolve over time as the platform grows.
+
+---
+
+## Future Expansion
+
+As Energy Wabbits Lunaverse continues to develop, additional reward categories, NFT partnerships, and premium experiences may be introduced to the Wheel.
+
+The goal is to continually expand the value and excitement available to participants while maintaining a sustainable ecosystem.
