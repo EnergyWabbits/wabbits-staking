@@ -9,6 +9,7 @@ Designed to provide access to larger rewards and exclusive opportunities, the Wh
 ## Wheel Price
 
 - $5 Per Spin
+- 2500 LDZ
 
 Wheel Spins may be obtained through:
 
